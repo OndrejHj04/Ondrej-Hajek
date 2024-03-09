@@ -79,7 +79,7 @@ export default function Home() {
         <p>
           <Link
             className="underline underline-offset-2"
-            href="https://www.tipsport.cz/verejny-profil/BRaM0B_ksHXGun7q5_fbQA/blogy"
+            href="https://www.tipsport.cz/blogy?filterAuthorEncryptedIds=BRaM0B_ksHXGun7q5_fbQA&authorUsername=9inch"
           >
             Articles
           </Link>{" "}
